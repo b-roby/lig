@@ -1,0 +1,43 @@
+.wrapper {
+  margin-left: 6%;
+}
+
+.player_container {
+  display: inline-block;
+  border: 5px solid #005A82;
+  width: 280px;
+  height: 320px;
+}
+
+.player_container img {
+  width: 280px;
+  height: 320px;
+  object-fit: cover;
+}
+
+.player_rank{
+  transform: translateY(-95%)
+}
+
+#name{
+  transform: translateY(-1150%);
+  text-align: center;
+  color: green;
+  font-size: 30px;
+  -webkit-text-stroke: 1px black;
+}
+
+#name a{
+  text-decoration: none;
+}
+
+#name a:visited, a:active{
+  color: inherit;
+}
+
+#rank {
+  height: auto;
+  max-width: 80%;
+  margin-left: 25px;
+  transform: translateY(-75%)
+}

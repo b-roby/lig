@@ -1,0 +1,14 @@
+<!doctype html>
+<title>LIG</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+<body>
+    <div class="wrapper">
+        {% for player in players %}
+            <div class="player_container">
+                <img id="champion" src="{{url_for('static', filename='champion_tiles/' + player.live_champion_raw + '_tile.jpg')}}">
+                <img id="rank" src="{{url_for('static', filename='ranks/' + player.division_soloq.split(" ")[0] + '.png')}}">
+                <h2 id="name"><a href="{{url_for('.lookup', summoner = player.name, region=player.region)}}">{{player.name}}</a></h2>
+            </div>
+        {% endfor %}
+    </div>
+</body>

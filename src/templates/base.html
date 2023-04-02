@@ -1,0 +1,17 @@
+<!doctype html>
+<title>LIG</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+<nav>
+  <h1>LIG</h1>
+  <a href="http://127.0.0.1:5000/livegame">LOOKUP LIVE GAME</a>
+  <a href="http://127.0.0.1:5000">LOOKUP SUMMONER</a>
+  <form method="post">
+    <input type="text" name="summoner_name">
+    <select name="region">
+        <option value="eun1">EUNE</option>
+        <option value="euw1">EUW</option>
+        <option value="na1">NA</option>
+    </select>
+    <input required type="submit" name="summoner_name"><br>
+  </form>
+</nav>
