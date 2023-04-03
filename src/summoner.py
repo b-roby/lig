@@ -162,7 +162,7 @@ class Summoner:
             time_gathered = summoner["time_gathered"]
         
         current_time = round(time.time())
-        update_delay = 60 * 5
+        update_delay = 2
 
         if summoner != None and time_gathered + update_delay >= current_time:
             self.deserialize(name)
@@ -189,8 +189,24 @@ class Summoner:
         except IndexError:
             pass
 
-        try:
+        flex = None
+        soloq = None
+
+        if len(info) == 1 and "FLEX" in info[0]["queueType"]:
+            flex = info[0]
+
+        if len(info) == 1 and "SOLO" in info[0]["queueType"]:
+            flex = info[0]
+
+        if len(info) == 2 and "SOLO" in info[0]["queueType"]:
+            soloq = info[0]
             flex = info[1]
+
+        if len(info) == 2 and "FLEX" in info[0]["queueType"]:
+            flex = info[0]
+            soloq = info[1]
+
+        try:
             self.tier_flex = flex["tier"]
             self.rank_flex = flex["rank"]
             self.division_flex = f"{self.tier_flex.lower().capitalize()} {self.rank_flex}"
@@ -198,11 +214,10 @@ class Summoner:
             self.lp_flex = flex["leaguePoints"]
             self.wins_flex = flex["wins"]
             self.losses_flex = flex["losses"]
-        except IndexError:
+        except TypeError:
             pass
 
         try:
-            soloq = info[0]  
             self.tier_soloq = soloq["tier"]
             self.rank_soloq = soloq["rank"]
             self.division_soloq = f"{self.tier_soloq.lower().capitalize()} {self.rank_soloq}"
@@ -210,7 +225,7 @@ class Summoner:
             self.lp_soloq = soloq["leaguePoints"]
             self.wins_soloq = soloq["wins"]
             self.losses_soloq = soloq["losses"]
-        except IndexError:
+        except TypeError:
             pass
 
         self.time_gathered = round(time.time())

@@ -2395,27 +2395,6 @@
             "tier_color_flex": "#710193"
         },
         {
-            "name": "Bling Bling Roby",
-            "region": "eun1",
-            "level": 200,
-            "id": "000m8-5GB_N5q9WrKr4a7h7YYqnxPkLhRhejL6iuLPFYCaY",
-            "soloq": {
-                "rank": "Silver II",
-                "lp": 66,
-                "wins": 11,
-                "losses": 16
-            },
-            "flex": {
-                "rank": "Silver I",
-                "lp": 59,
-                "wins": 147,
-                "losses": 166
-            },
-            "time_gathered": 1680474939,
-            "tier_color_soloq": "#C0C0C0",
-            "tier_color_flex": "#C0C0C0"
-        },
-        {
             "name": "Tryndamereisbis",
             "region": "na1",
             "level": 34,
@@ -2645,6 +2624,48 @@
             "time_gathered": 1680475010,
             "tier_color_soloq": "#FFD700",
             "tier_color_flex": "#d0f6ff"
+        },
+        {
+            "name": "ale\u017c",
+            "region": "eun1",
+            "level": 315,
+            "id": "VvUOYMIxKWtNJwMyeyLt2sXYEgBZSnB1FarLOw74XAcUr1Zubv8i6dFYPQ",
+            "soloq": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "flex": {
+                "rank": "Gold III",
+                "lp": 24,
+                "wins": 61,
+                "losses": 54
+            },
+            "time_gathered": 1680542248,
+            "tier_color_soloq": "gray",
+            "tier_color_flex": "#FFD700"
+        },
+        {
+            "name": "Bling Bling Roby",
+            "region": "eun1",
+            "level": 200,
+            "id": "000m8-5GB_N5q9WrKr4a7h7YYqnxPkLhRhejL6iuLPFYCaY",
+            "soloq": {
+                "rank": "Silver II",
+                "lp": 97,
+                "wins": 148,
+                "losses": 170
+            },
+            "flex": {
+                "rank": "Silver II",
+                "lp": 66,
+                "wins": 11,
+                "losses": 16
+            },
+            "time_gathered": 1680542321,
+            "tier_color_soloq": "#C0C0C0",
+            "tier_color_flex": "#C0C0C0"
         }
     ]
 }

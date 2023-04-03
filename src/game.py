@@ -1,4 +1,4 @@
-from util import make_async_request, api_key, read_json, is_windows(), is_linux()
+from util import make_async_request, api_key, read_json, is_windows, is_linux
 from summoner import Summoner
 from live_summoner import LiveSummoner
 

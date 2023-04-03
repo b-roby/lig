@@ -40,7 +40,7 @@ def livegame():
     if request.method == "POST":
         summoner_name = request.form.get("summoner_name")
         region = request.form.get("region")
-        invoker = Summoner(summoner_name, region)
+        invoker = LiveSummoner(summoner_name, region)
         game = Game(invoker)
         del invoker
         players = game.players
