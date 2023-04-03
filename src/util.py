@@ -1,6 +1,12 @@
-import json, requests, aiohttp, asyncio
+import json, requests, aiohttp, platform
 
-api_key = "RGAPI-14d88b68-a2aa-4699-ae7e-585748779890"
+api_key = "RGAPI-9e0cd343-b48d-4ad2-823a-eaaf8dac07ce"
+
+def is_windows():
+    return platform.system() == "Windows"
+
+def is_linux():
+    return platform.system() == "Linux"
 
 def warning(msg : str):
     print(f"[!] {msg}")
@@ -32,7 +38,6 @@ def make_endpoint_request(url):
         "Origin": "https://developer.riotgames.com",
         "X-Riot-Token": f"{api_key}"
     }
-
     req = requests.get(url, headers=request_headers)
     return req.json()
 

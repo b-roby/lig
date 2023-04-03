@@ -1,0 +1,9 @@
+{
+    "name": "starter-express-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "__init__.py",
+    "scripts": {
+      "start": "'cd Scripts' activate cd.. cd 'src' 'flask -app . run --debug'"
+    }
+  }

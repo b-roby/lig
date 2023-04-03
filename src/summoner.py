@@ -1,5 +1,5 @@
 import json, asyncio, time
-from .util import make_async_request, api_key
+from util import make_async_request, api_key
 
 def warning(msg : str):
     print(f"[!] {msg}")
@@ -12,7 +12,6 @@ def write_json(summoner_data, filename):
         json.dump(file_data, file, indent=4)
         file.truncate()
     
-# def delete_json()
 def read_json(filename):
     with open(filename, 'r') as file:
         data = json.load(file)

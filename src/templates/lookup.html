@@ -1,17 +1,18 @@
 <!doctype html>
 <title>LIG</title>
-<link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+<link rel="stylesheet" href="{{ url_for('static', filename='lookup.css')}}">
 <nav>
   <h1>LIG</h1>
-    <a href="http://127.0.0.1:5000/livegame">LOOKUP LIVE GAME</a>
-    <a href="http://127.0.0.1:5000">LOOKUP SUMMONER</a>
-    <div class="container" style="border: 2px solid lightblue">
-      <h2>Summoner: <span>{{player.name}}</span> is level {{player.level}} | 
-        <span style="color: green;">W: {{player.wins_soloq}}</span> 
-        <span style="color: red;">L: {{player.losses_soloq}}</span> 
-        WR: 0
+    <a href="http://blingroby.pythonanywhere.com/livegame">LOOKUP LIVE GAME</a>
+    <a href="http://blingroby.pythonanywhere.com/">LOOKUP SUMMONER</a>
+    <div class="player">
+      <h2>Summoner: 
+        <span>{{player.name}}</span>
+        <span>Level: {{player.level}}</span> 
+        <span style="color: green">W: {{player.wins_soloq}}</span> 
+        <span style="color: red">L: {{player.losses_soloq}}</span>
       </h2>
-        <h2>Solo/Duo Rank: <span style="color: {{player.tier_color_soloq}}">{{player.division_soloq}}</span> & {{player.lp_soloq}} LP</h2>
-        <h2>Flex Rank: <span style="color: {{player.tier_color_flex}}">{{player.division_flex}}</span> & {{player.lp_flex}} LP</h3>
+      <h2>Solo/Duo Rank: <span style="color: {{player.tier_color_soloq}}">{{player.division_soloq}}</span> {{player.lp_soloq}} LP</h2>
+      <h2>Flex Rank: <span style="color: {{player.tier_color_flex}}">{{player.division_flex}}</span> {{player.lp_flex}} LP</h3>
     </div>
 </nav>

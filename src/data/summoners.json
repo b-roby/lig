@@ -967,27 +967,6 @@
             "tier_color_flex": "gray"
         },
         {
-            "name": "Tryndamereisbis",
-            "region": "na1",
-            "level": 33,
-            "id": "W0SyVracRTIFkZms3A3U_pZWSaKziF4hCm6Gol7HWnf9iPs",
-            "soloq": {
-                "rank": "Gold I",
-                "lp": 17,
-                "wins": 35,
-                "losses": 8
-            },
-            "flex": {
-                "rank": "unranked",
-                "lp": 0,
-                "wins": 0,
-                "losses": 0
-            },
-            "time_gathered": 1680385308,
-            "tier_color_soloq": "#FFD700",
-            "tier_color_flex": "gray"
-        },
-        {
             "name": "Antik",
             "region": "na1",
             "level": 416,
@@ -1156,27 +1135,6 @@
             "tier_color_flex": "gray"
         },
         {
-            "name": "TryndamereisBIS",
-            "region": "na1",
-            "level": 33,
-            "id": "W0SyVracRTIFkZms3A3U_pZWSaKziF4hCm6Gol7HWnf9iPs",
-            "soloq": {
-                "rank": "Gold I",
-                "lp": 17,
-                "wins": 35,
-                "losses": 8
-            },
-            "flex": {
-                "rank": "unranked",
-                "lp": 0,
-                "wins": 0,
-                "losses": 0
-            },
-            "time_gathered": 1680385325,
-            "tier_color_soloq": "#FFD700",
-            "tier_color_flex": "gray"
-        },
-        {
             "name": "KyleWeez",
             "region": "na1",
             "level": 474,
@@ -1196,27 +1154,6 @@
             "time_gathered": 1680385327,
             "tier_color_soloq": "#FFD700",
             "tier_color_flex": "#d0f6ff"
-        },
-        {
-            "name": "8th acc lets go",
-            "region": "eun1",
-            "level": 106,
-            "id": "Okxx5FRQLmbIcKpSubEoQj4KqPFUvTHzMQss9RV6xUheIJyrTPxBR7V6MA",
-            "soloq": {
-                "rank": "Gold II",
-                "lp": 18,
-                "wins": 188,
-                "losses": 199
-            },
-            "flex": {
-                "rank": "unranked",
-                "lp": 0,
-                "wins": 0,
-                "losses": 0
-            },
-            "time_gathered": 1680435927,
-            "tier_color_soloq": "#FFD700",
-            "tier_color_flex": "gray"
         },
         {
             "name": "Planl\u00e8ss",
@@ -1406,27 +1343,6 @@
             "time_gathered": 1680437057,
             "tier_color_soloq": "#710193",
             "tier_color_flex": "gray"
-        },
-        {
-            "name": "Bling Bling Roby",
-            "region": "eun1",
-            "level": 200,
-            "id": "000m8-5GB_N5q9WrKr4a7h7YYqnxPkLhRhejL6iuLPFYCaY",
-            "soloq": {
-                "rank": "Silver II",
-                "lp": 66,
-                "wins": 11,
-                "losses": 16
-            },
-            "flex": {
-                "rank": "Silver I",
-                "lp": 59,
-                "wins": 147,
-                "losses": 166
-            },
-            "time_gathered": 1680437828,
-            "tier_color_soloq": "#C0C0C0",
-            "tier_color_flex": "#C0C0C0"
         },
         {
             "name": "Dym le nullos",
@@ -1847,6 +1763,888 @@
             "time_gathered": 1680439234,
             "tier_color_soloq": "#710193",
             "tier_color_flex": "gray"
+        },
+        {
+            "name": "8th acc lets go",
+            "region": "eun1",
+            "level": 106,
+            "id": "Okxx5FRQLmbIcKpSubEoQj4KqPFUvTHzMQss9RV6xUheIJyrTPxBR7V6MA",
+            "soloq": {
+                "rank": "Gold II",
+                "lp": 25,
+                "wins": 189,
+                "losses": 200
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680463125,
+            "tier_color_soloq": "#FFD700",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "K2H",
+            "region": "euw1",
+            "level": 39,
+            "id": "ROyyVH_fXsdeQ6gH6ran_WjlLX5uewt4bCPUN2ZC2ORj21Mwgpy44cHzkA",
+            "soloq": {
+                "rank": "Diamond II",
+                "lp": 61,
+                "wins": 47,
+                "losses": 25
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680465207,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "brother gamerX",
+            "region": "euw1",
+            "level": 101,
+            "id": "OynMWbUWO6mPDlQpx7a3OrN6-36LDtka4pZ1-vG--pfzQ5BU",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 22,
+                "wins": 122,
+                "losses": 129
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680465208,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Nocacashe",
+            "region": "euw1",
+            "level": 39,
+            "id": "T0zk5RO2M1z-6OGj34GxVzEbabTYrUHsTXWWDjqb0YiMHY3tUxeJQ7Qd0g",
+            "soloq": {
+                "rank": "Diamond I",
+                "lp": 29,
+                "wins": 53,
+                "losses": 41
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680465208,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "ceminem",
+            "region": "euw1",
+            "level": 272,
+            "id": "N_lhfdV2UcSSNKeF_-QZ3uNOUljmb-drMSayW-TEv29qFpo",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 35,
+                "wins": 185,
+                "losses": 195
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680465209,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Errghh",
+            "region": "euw1",
+            "level": 629,
+            "id": "pbXOHfphoJc_jLhEvNRTASg_xAKEXYKkCvURjxw7Nv2dCG8",
+            "soloq": {
+                "rank": "Diamond I",
+                "lp": 51,
+                "wins": 303,
+                "losses": 274
+            },
+            "flex": {
+                "rank": "Platinum I",
+                "lp": 18,
+                "wins": 12,
+                "losses": 16
+            },
+            "time_gathered": 1680465209,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "#d0f6ff"
+        },
+        {
+            "name": "ChallengerIRL",
+            "region": "euw1",
+            "level": 90,
+            "id": "thBetjQNAae3me3y6D2Epzn6bib0DlcK-4LIBu3KYex2N4OkyHZOGn4K2Q",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 98,
+                "wins": 115,
+                "losses": 94
+            },
+            "flex": {
+                "rank": "Platinum I",
+                "lp": 34,
+                "wins": 11,
+                "losses": 14
+            },
+            "time_gathered": 1680465209,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "#d0f6ff"
+        },
+        {
+            "name": "Ersaleno",
+            "region": "euw1",
+            "level": 76,
+            "id": "FXT6mjvfq3p7iF5SLigaz-n9YEwXjWu2l_B7_zOSQxpYsKe1EiEPpRxAiQ",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 76,
+                "wins": 85,
+                "losses": 80
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680465210,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "voicesinmyH\u00c6D",
+            "region": "euw1",
+            "level": 51,
+            "id": "ODK6o4XbmKCPQoNfu6f_r1wB0OXUAwigc5t4odpirhSoj1g3qt3-D6pwAg",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 0,
+                "wins": 110,
+                "losses": 104
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680465210,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "TripleApple",
+            "region": "euw1",
+            "level": 859,
+            "id": "tyYJNEepFyWvLHS-3acFLcIKDY69XtURzTYaRWSHfd9GnWo",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 1,
+                "wins": 54,
+                "losses": 39
+            },
+            "flex": {
+                "rank": "Master I",
+                "lp": 1,
+                "wins": 79,
+                "losses": 79
+            },
+            "time_gathered": 1680465211,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "#710193"
+        },
+        {
+            "name": "Rumahoy",
+            "region": "na1",
+            "level": 648,
+            "id": "3z0i0A4XMQQVtkDkHlaQcYnOvh0ZenI6mtsES12lXrG5cII",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 24,
+                "wins": 596,
+                "losses": 598
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680465772,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "ohhhhhh",
+            "region": "euw1",
+            "level": 94,
+            "id": "7RESY-3ceXI0LmcOB7_QCBd8R5pyC831SjL1ksxg5uBu4uE",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 19,
+                "wins": 49,
+                "losses": 32
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467207,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "ZombyraGL",
+            "region": "euw1",
+            "level": 920,
+            "id": "a1q0m31fLn1WWKo7F5Fc7iEfKRIIosmjeABMdtZ4vlcyxR8",
+            "soloq": {
+                "rank": "Platinum I",
+                "lp": 0,
+                "wins": 10,
+                "losses": 9
+            },
+            "flex": {
+                "rank": "Master I",
+                "lp": 26,
+                "wins": 34,
+                "losses": 30
+            },
+            "time_gathered": 1680467207,
+            "tier_color_soloq": "#d0f6ff",
+            "tier_color_flex": "#710193"
+        },
+        {
+            "name": "matteoITA",
+            "region": "euw1",
+            "level": 678,
+            "id": "-NaN8d6Cq7gr9Ow7slH94Ugle-K76yxZ8OIO11opU0cfyaE",
+            "soloq": {
+                "rank": "Platinum II",
+                "lp": 8,
+                "wins": 19,
+                "losses": 18
+            },
+            "flex": {
+                "rank": "Diamond I",
+                "lp": 100,
+                "wins": 305,
+                "losses": 307
+            },
+            "time_gathered": 1680467207,
+            "tier_color_soloq": "#d0f6ff",
+            "tier_color_flex": "#437ff9"
+        },
+        {
+            "name": "Troubadour Tirok",
+            "region": "euw1",
+            "level": 400,
+            "id": "sryWtuq6-LvmuPtNNcjF_hYG_1Mm2Mz67Ga6KdrrlMhj0RA",
+            "soloq": {
+                "rank": "Silver I",
+                "lp": 100,
+                "wins": 10,
+                "losses": 11
+            },
+            "flex": {
+                "rank": "Master I",
+                "lp": 0,
+                "wins": 116,
+                "losses": 79
+            },
+            "time_gathered": 1680467208,
+            "tier_color_soloq": "#C0C0C0",
+            "tier_color_flex": "#710193"
+        },
+        {
+            "name": "Gragol",
+            "region": "euw1",
+            "level": 51,
+            "id": "jZcmuft6JyDZXEGCmDP2FuBO0NWTbFDL1TxvWvRhCqI4O5oluN9z-9JiZg",
+            "soloq": {
+                "rank": "Diamond I",
+                "lp": 84,
+                "wins": 78,
+                "losses": 50
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467208,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Kitten Emiru",
+            "region": "euw1",
+            "level": 48,
+            "id": "ydPvjE3AmSXchFj9g0sZJh8yfwd0zY8BAxlhqGIM_tkGn33BP-o3WWWaKw",
+            "soloq": {
+                "rank": "Diamond I",
+                "lp": 80,
+                "wins": 69,
+                "losses": 55
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467209,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "obdqrc",
+            "region": "euw1",
+            "level": 45,
+            "id": "J0eV3PdSq0MBXMxnzrfThM5qYZDdE1t0SeB7h6HKcG9tFPQA51eht_k-kg",
+            "soloq": {
+                "rank": "Diamond II",
+                "lp": 78,
+                "wins": 37,
+                "losses": 20
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467209,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "mermaid ariel",
+            "region": "euw1",
+            "level": 60,
+            "id": "iNGSfTImyszGBkq68FEnzKooZ3NLvE1lazhiY2_NY01crgSxAGqliGNwZg",
+            "soloq": {
+                "rank": "Diamond I",
+                "lp": 56,
+                "wins": 62,
+                "losses": 41
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467209,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Zara zjem myszke",
+            "region": "euw1",
+            "level": 380,
+            "id": "Sa4wclqLhdzqabDn_B6ZnjW_wSz_YKrAeCYPe8kCEPM",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 56,
+                "wins": 220,
+                "losses": 207
+            },
+            "flex": {
+                "rank": "Silver II",
+                "lp": 75,
+                "wins": 21,
+                "losses": 24
+            },
+            "time_gathered": 1680467210,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "#C0C0C0"
+        },
+        {
+            "name": "Thebausffs",
+            "region": "euw1",
+            "level": 1228,
+            "id": "Ks14f0ZpgAwgRoYrvrFIowT2tlK6qaEO9qH324Hndgq2rzsU",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 12,
+                "wins": 215,
+                "losses": 225
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467945,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "SM\u00ecLiNG",
+            "region": "euw1",
+            "level": 384,
+            "id": "OhZwlwF8Zx05Etg4G7QWLF1sUXtVZicJKoJ6fbovg6F8LUs",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 19,
+                "wins": 225,
+                "losses": 199
+            },
+            "flex": {
+                "rank": "Gold II",
+                "lp": 0,
+                "wins": 11,
+                "losses": 8
+            },
+            "time_gathered": 1680467945,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "#FFD700"
+        },
+        {
+            "name": "Thom\u0105s Sh\u0119lby",
+            "region": "euw1",
+            "level": 581,
+            "id": "OABKLTxqZT6V5aFKjMU0F8YF9932DP84Qrie95TkWoC4F_3z3pB09lU6nQ",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 49,
+                "wins": 223,
+                "losses": 220
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467946,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Frozenfrost",
+            "region": "euw1",
+            "level": 254,
+            "id": "nJVlHfKeDHT0f7CBTxc8CTQWfPIDTDtVpCmxgLnLg2J6eCqm48vHGHkb8A",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 100,
+                "wins": 151,
+                "losses": 150
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467946,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Z H E \u00d8 U S",
+            "region": "euw1",
+            "level": 40,
+            "id": "MQF4mWCBu0XOjDFPHZthvz7eqwlhsMVsuLpVg0_g-ffrnpskvVnlosNk8g",
+            "soloq": {
+                "rank": "Diamond I",
+                "lp": 75,
+                "wins": 67,
+                "losses": 45
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467946,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Mikesuu",
+            "region": "euw1",
+            "level": 580,
+            "id": "3_V9ikMlX9bxx3PIaZ7Cs6U_4o6QMjWsP01LYt4y8kjoUu0C",
+            "soloq": {
+                "rank": "Diamond I",
+                "lp": 100,
+                "wins": 267,
+                "losses": 244
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467947,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "TDSP Phyraxx",
+            "region": "euw1",
+            "level": 101,
+            "id": "lDjjaMaPF6zn91qJSQvlLWRH7qKYfWm-ic6-c2VrLCNSiWIA",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 21,
+                "wins": 115,
+                "losses": 126
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467947,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "YOU HATE TO SEE",
+            "region": "euw1",
+            "level": 297,
+            "id": "f6QMk-wIZHO1fso-wIRWiyxF55Zvi2gwnzpqmI_gduNb4jU",
+            "soloq": {
+                "rank": "Diamond III",
+                "lp": 0,
+                "wins": 61,
+                "losses": 55
+            },
+            "flex": {
+                "rank": "Master I",
+                "lp": 187,
+                "wins": 152,
+                "losses": 100
+            },
+            "time_gathered": 1680467947,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "#710193"
+        },
+        {
+            "name": "kYekaL",
+            "region": "euw1",
+            "level": 83,
+            "id": "BO0PiTGYkEfahwbFx5tkMcB6T0DXVnTn-Yfdn3azn1NFjCw",
+            "soloq": {
+                "rank": "Master I",
+                "lp": 52,
+                "wins": 102,
+                "losses": 75
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680467948,
+            "tier_color_soloq": "#710193",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Twenty4Tim",
+            "region": "euw1",
+            "level": 555,
+            "id": "Twy5SuY9NjArlQ87A2QK8Jt5egsyUS-CFzb6XAyYQ2poyT8",
+            "soloq": {
+                "rank": "Diamond III",
+                "lp": 5,
+                "wins": 11,
+                "losses": 5
+            },
+            "flex": {
+                "rank": "Master I",
+                "lp": 54,
+                "wins": 190,
+                "losses": 198
+            },
+            "time_gathered": 1680467948,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "#710193"
+        },
+        {
+            "name": "Bling Bling Roby",
+            "region": "eun1",
+            "level": 200,
+            "id": "000m8-5GB_N5q9WrKr4a7h7YYqnxPkLhRhejL6iuLPFYCaY",
+            "soloq": {
+                "rank": "Silver II",
+                "lp": 66,
+                "wins": 11,
+                "losses": 16
+            },
+            "flex": {
+                "rank": "Silver I",
+                "lp": 59,
+                "wins": 147,
+                "losses": 166
+            },
+            "time_gathered": 1680474939,
+            "tier_color_soloq": "#C0C0C0",
+            "tier_color_flex": "#C0C0C0"
+        },
+        {
+            "name": "Tryndamereisbis",
+            "region": "na1",
+            "level": 34,
+            "id": "W0SyVracRTIFkZms3A3U_pZWSaKziF4hCm6Gol7HWnf9iPs",
+            "soloq": {
+                "rank": "Platinum IV",
+                "lp": 1,
+                "wins": 43,
+                "losses": 12
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680474991,
+            "tier_color_soloq": "#d0f6ff",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "JKA Zach",
+            "region": "na1",
+            "level": 38,
+            "id": "9mnONMIj1xLQ6-3qmY8b0KblWVByWQPnF5ybBYGbAnLh1lo",
+            "soloq": {
+                "rank": "Gold I",
+                "lp": 84,
+                "wins": 30,
+                "losses": 5
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680474994,
+            "tier_color_soloq": "#FFD700",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "lolthur",
+            "region": "na1",
+            "level": 450,
+            "id": "Jze_YSqi6w9jkdTB92FxhoU8J-ymtT7ofelmQDuBvPS6DIc",
+            "soloq": {
+                "rank": "Platinum II",
+                "lp": 49,
+                "wins": 97,
+                "losses": 73
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680474996,
+            "tier_color_soloq": "#d0f6ff",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Sniperkingtwenty",
+            "region": "na1",
+            "level": 162,
+            "id": "y9BcvcP_sfdNJ9bobEhr5vDzdlRrJvM90hVtXuwgYj7eDwI",
+            "soloq": {
+                "rank": "Gold I",
+                "lp": 100,
+                "wins": 79,
+                "losses": 64
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680474998,
+            "tier_color_soloq": "#FFD700",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "AGMONO",
+            "region": "na1",
+            "level": 219,
+            "id": "Mjb8D9QGN-lQNb5BZ5ziX7uyPMxLxoQsZjszgKMYd_7Xz14",
+            "soloq": {
+                "rank": "Silver I",
+                "lp": 47,
+                "wins": 22,
+                "losses": 15
+            },
+            "flex": {
+                "rank": "Platinum III",
+                "lp": 19,
+                "wins": 12,
+                "losses": 29
+            },
+            "time_gathered": 1680474999,
+            "tier_color_soloq": "#C0C0C0",
+            "tier_color_flex": "#d0f6ff"
+        },
+        {
+            "name": "TryndamereisBIS",
+            "region": "na1",
+            "level": 34,
+            "id": "W0SyVracRTIFkZms3A3U_pZWSaKziF4hCm6Gol7HWnf9iPs",
+            "soloq": {
+                "rank": "Platinum IV",
+                "lp": 1,
+                "wins": 43,
+                "losses": 12
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680475001,
+            "tier_color_soloq": "#d0f6ff",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Unworldy",
+            "region": "na1",
+            "level": 60,
+            "id": "evaY9TaZDL7Gj2ttRjbmf0IUwxuaoYT1FLF0nI-HERGmGEo0",
+            "soloq": {
+                "rank": "Platinum III",
+                "lp": 65,
+                "wins": 51,
+                "losses": 28
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680475003,
+            "tier_color_soloq": "#d0f6ff",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "King Zelveron",
+            "region": "na1",
+            "level": 723,
+            "id": "SxOHyRCd8bkRRK_3mQbjgIt__ytKZQKK1iqKbff6avyRIl8",
+            "soloq": {
+                "rank": "Diamond IV",
+                "lp": 69,
+                "wins": 166,
+                "losses": 147
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680475005,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Kuroi Hito",
+            "region": "na1",
+            "level": 156,
+            "id": "4Z0bgJpwO9MG1NK1qz21PoaQR-TyG4sAl6Oqw67_wM_y7ma0-MqmhhyQOQ",
+            "soloq": {
+                "rank": "Diamond IV",
+                "lp": 25,
+                "wins": 133,
+                "losses": 120
+            },
+            "flex": {
+                "rank": "unranked",
+                "lp": 0,
+                "wins": 0,
+                "losses": 0
+            },
+            "time_gathered": 1680475006,
+            "tier_color_soloq": "#437ff9",
+            "tier_color_flex": "gray"
+        },
+        {
+            "name": "Follows",
+            "region": "na1",
+            "level": 549,
+            "id": "Kc2RGuq57FWE7ym9R8kE4ORWmKGEIerLRudd3UkmN1Jg4CGl",
+            "soloq": {
+                "rank": "Platinum I",
+                "lp": 42,
+                "wins": 83,
+                "losses": 80
+            },
+            "flex": {
+                "rank": "Gold III",
+                "lp": 46,
+                "wins": 13,
+                "losses": 19
+            },
+            "time_gathered": 1680475008,
+            "tier_color_soloq": "#d0f6ff",
+            "tier_color_flex": "#FFD700"
+        },
+        {
+            "name": "terrorist sion",
+            "region": "na1",
+            "level": 1103,
+            "id": "0BB0Ans-2c3u-ExC7ShZxAsWG3fQEyUx6t4ks2VWpfmsliw",
+            "soloq": {
+                "rank": "Gold IV",
+                "lp": 54,
+                "wins": 7,
+                "losses": 14
+            },
+            "flex": {
+                "rank": "Platinum I",
+                "lp": 70,
+                "wins": 60,
+                "losses": 67
+            },
+            "time_gathered": 1680475010,
+            "tier_color_soloq": "#FFD700",
+            "tier_color_flex": "#d0f6ff"
         }
     ]
 }

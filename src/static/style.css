@@ -4,7 +4,6 @@
 
 .player_container {
   display: inline-block;
-  border: 5px solid #005A82;
   width: 280px;
   height: 320px;
 }
