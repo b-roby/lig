@@ -42,7 +42,7 @@ def make_endpoint_request(url):
     return req.json()
 
 async def make_async_request(url):
-    async with aiohttp.ClientSession() as session:
+    async with aiohttp.ClientSession(trust_env=True) as session:
         async with session.get(url) as response:
             if response.status == 404:
                 return None
